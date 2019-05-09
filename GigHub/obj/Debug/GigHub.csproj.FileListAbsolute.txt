@@ -222,3 +222,4 @@ C:\Users\peeje\Source\Repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\peeje\Source\Repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\Users\peeje\Source\Repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 C:\Users\peeje\Source\Repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Users\peeje\Source\Repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
