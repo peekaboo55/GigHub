@@ -223,3 +223,4 @@ C:\Users\peeje\source\repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.csproj.Cor
 C:\Users\peeje\source\repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
 C:\Users\peeje\source\repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\peeje\source\repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\peeje\source\repos\peekaboo55\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
