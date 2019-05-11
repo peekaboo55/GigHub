@@ -9,7 +9,8 @@
             <li class="dropdown">
                 <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">@User.Identity.GetUserName()</a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Gigs I'mgoing</a></li>
+                    <li><a href="@Url.Action("Mine","Gigs")">Gigs I'mgoing</a></li>
+                    <li><a href="#">Gigs I'mgoing</a></li>
                     <li><a class="dropdown-item" href="#">Artist i'm following</a></li>
                     <li><hr/></li>
                     <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
